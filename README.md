@@ -6,11 +6,11 @@ This is a living, skunkworks repository for inventory tracking.
 
 ### Repository Structure
 
-[`specs`](./specs/) - Contains project and protocol level specifications.
-[`faqs`](./faqs/) - Frequently Asked Questions and Answers.
-[`charters`](./charters/) - OP Stack project charters.
-[`contributing`](./contributing/) - Contributing documentation and guidelines.
-[`sync`](./sync/) - Notes for meetings and other synchronous events.
+- [`specs`](./specs/) - Contains project and protocol level specifications.
+- [`faqs`](./faqs/) - Frequently Asked Questions and Answers.
+- [`charters`](./charters/) - OP Stack project charters.
+- [`contributing`](./contributing/) - Contributing documentation and guidelines.
+- [`sync`](./sync/) - Notes for meetings and other synchronous events.
 
 ### How to use alldevs
 
